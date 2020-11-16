@@ -24,3 +24,6 @@ History of Type
 
 
 [Version 2](https://leoniesmythixd.github.io/john_baskerville/history2.html)
+
+
+[Version 3]
