@@ -63,6 +63,13 @@ header p {
     font-size: 1.3em;
 }
 
+hr{
+    margin: 3em 0;
+    height: 1px;
+    color: blueviolet;
+    border: 0 none;
+}
+
 /*---------STYLING LINES ---------*/
 a {
     color: antiquewhite;
