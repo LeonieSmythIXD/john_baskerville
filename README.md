@@ -11,7 +11,7 @@ Adding new Bskerville file and appled my first css styling.
 
 
 
-[Version 2](https://leoniesmythixd.github.io/john_baskerville/baskerville3.html)
+[Version 3](https://leoniesmythixd.github.io/john_baskerville/baskerville3.html)
 *16 November 2020*
 
 
