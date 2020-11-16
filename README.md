@@ -1,4 +1,4 @@
-# john_baskerville
+8# john_baskerville
 ===================
 [Version 1](https://leoniesmythixd.github.io/john_baskerville/baskerville1.html)
 *02 November 2020*
@@ -11,8 +11,8 @@ Adding new Bskerville file and appled my first css styling.
 
 
 
-
-
+[Version 2](https://leoniesmythixd.github.io/john_baskerville/baskerville3.html)
+*16 November 2020*
 
 
 
