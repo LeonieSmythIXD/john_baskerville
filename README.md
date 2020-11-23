@@ -15,7 +15,9 @@ Adding new Baskerville file and applied my first css styling.
 *16 November 2020*
 
 
-
+[Version 4](https://leoniesmythixd.github.io/john_baskerville/baskerville4.html)
+*23 November 2020*
+Adding tables to content
 
 
 History of Type 
