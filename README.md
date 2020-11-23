@@ -17,7 +17,7 @@ Adding new Baskerville file and applied my first css styling.
 
 [Version 4](https://leoniesmythixd.github.io/john_baskerville/baskerville4.html)
 *23 November 2020*
-Adding tables and images to content
+Adding tables and images to content and new css
 
 
 History of Type 
