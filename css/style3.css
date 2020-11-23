@@ -139,6 +139,10 @@ th {
     background-color: blueviolet;
 }
 
+th, td{
+    background-color: antiquewhite;
+    border-color: 2px solid antiquewhite;
+}
 
 /*------- FOOTER ------*/
 footer {
