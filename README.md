@@ -13,7 +13,7 @@ Adding new Baskerville file and applied my first css styling.
 
 [Version 3](https://leoniesmythixd.github.io/john_baskerville/baskerville3.html)
 *16 November 2020*
-Continuing css styling
+Adding fonts and continuing css styling
 
 
 [Version 4](https://leoniesmythixd.github.io/john_baskerville/baskerville4.html)
