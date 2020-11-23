@@ -21,28 +21,26 @@ h1, h2 {
     font-weight: normal;
     color: crimson;
     text-align: center;
-    font-family: 'Libre Baskerville', serif;
-
 }
 
 p, blockquote {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.141em;
     line-height: 1.4;
 }
 
 h1 {
-    font-size: 3.827em;
+    font-size: 1.999em;
     margin-top: 3em;
     margin-bottom: 01em;
 }
 
 h2{
-    font-size: 1.999em;
+    font-size: 1.141em;
     margin: 3em 0 1em 0;
 }
 
 blockquote {
-    font-size: 1.414em;
+    font-size: 1.141em;
     color: dimgray;
     hanging-punctuation: first;
     text-indent: -0.44em;
@@ -60,14 +58,7 @@ header h2 {
 }
 
 header p {
-    font-size: 1.3em;
-}
-
-hr{
-    margin: 3em 0;
-    height: 1px;
-    color: crimson;
-    border: 0 none;
+    font-size: 1.141em;
 }
 
 /*---------STYLING LINES ---------*/
@@ -80,7 +71,7 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
-/* ANVIGATION -----*/
+/* NAVIGATION -----*/
 nav {
     position: fixed;
     top: 0;
