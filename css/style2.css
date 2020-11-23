@@ -12,14 +12,14 @@ body {
     width: 80%;
     max-width: 760px;
     margin: auto;
-    background: #edf3f7;
+    background: #cornsilk;
 color: #333;    
 }
 
 /*----- TYPOGRAPHY -----*/
 h1, h2 {
     font-weight: normal;
-    color: blueviolet;
+    color: crimson;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
 
@@ -43,7 +43,7 @@ h2{
 
 blockquote {
     font-size: 1.414em;
-    #color: blueviolet;
+    #color: dimgrey;
     hanging-punctuation: first;
     text-indent: -0.44em;
 }
@@ -72,11 +72,11 @@ hr{
 
 /*---------STYLING LINES ---------*/
 a {
-    color: antiquewhite;
+    color: chocolate;
     text-decoration: none;
 }
 a:hover {
-    color: antiquewhite;
+    color: brown;
     border-bottom: 1px dotted;
 }
 
@@ -87,7 +87,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: aquamarine;
+    background-color: crimson;
     padding: 1em 0;
     font-size: 0.75em;
 }
@@ -106,12 +106,12 @@ nav ul li{
 
 
 nav a {
-    color: cadetblue
+    color: cornsilk;
 }
 
 nav a:hover {
     border-bottom: none;
-    color: cadetblue;
+    color: brown;
     transition: all 0.2s ease-in-out;
 }
 
