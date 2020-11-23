@@ -40,7 +40,7 @@ h2{
 }
 
 blockquote {
-    font-size: 1.414em;
+    font-size: 1.141em;
     color: dimgray;
     hanging-punctuation: first;
     text-indent: -0.44em;
@@ -58,7 +58,7 @@ header h2 {
 }
 
 header p {
-    font-size: 1.3em;
+    font-size: 1.5em;
 }
 
 /*---------STYLING LINES ---------*/
