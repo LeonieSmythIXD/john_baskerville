@@ -54,11 +54,11 @@ blockquote cite {
 header h2 {
     font-style: italic;
     margin-top: 0;
-    margin-bottom: 1.141em
+    margin-bottom: 1.5em
 }
 
 header p {
-    font-size: 1.5em;
+    font-size: 1.141em;
 }
 
 /*---------STYLING LINES ---------*/
