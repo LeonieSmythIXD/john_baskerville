@@ -21,6 +21,7 @@ h1, h2 {
     font-weight: normal;
     color: crimson;
     text-align: center;
+    font-family: 'Libre Baskerville', serif;
 }
 
 p, blockquote {
