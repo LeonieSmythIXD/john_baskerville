@@ -29,4 +29,4 @@ History of Type
 [Version 2](https://leoniesmythixd.github.io/john_baskerville/history2.html)
 
 
-[Version 3]
+[Version 3](https://leoniesmythixd.github.io/john_baskerville/history3.html)
