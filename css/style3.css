@@ -113,27 +113,27 @@ table {
     margin: auto;
     display: table;
     border-collapse: collapse;
-    border-spacing: 2px;
-    margin-bottom: 2em;
+    border-spacing: 3px;
+    margin-bottom: 6em;
     width: 100%;
 }
 
 caption {
-    margin: 1.5em 0;
+    margin: 1.7em 0;
     text-transform: uppercase;
     
 }
-th {
+th td{
     color: antiquewhite;
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background-color: blueviolet;
+    background-color: crimson;
 }
 
 th, td{
-    background-color: antiquewhite;
-    border-color: 2px solid antiquewhite;
+    background-color: blanchedalmond;
+    border-color: crimson;
 }
 
 
