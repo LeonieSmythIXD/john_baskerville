@@ -30,3 +30,5 @@ History of Type
 
 
 [Version 3](https://leoniesmythixd.github.io/john_baskerville/history3.html)
+
+[Version 4](https://leoniesmythixd.github.io/john_baskerville/history4.html)
